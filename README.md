@@ -28,4 +28,7 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 This workflow is unaffiliated with nor endorsed by OpenSea, Inc.
 
+
+[Discuss this workflow](https://www.alfredforum.com/topic/17683-workflow-alfred-toolkit-for-opensea/) on the Alfred Forum.
+
 You can [file bugs](https://github.com/chrismessina/alfred-opensea-toolkit/issues/new) or [submit feature requests](https://github.com/chrismessina/alfred-opensea-toolkit/issues/new) on GitHub.
