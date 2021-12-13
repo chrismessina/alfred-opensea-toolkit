@@ -20,6 +20,14 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.2] - 2021-12-13
+### Added
+* Custom icons for Explore, Stats, and Resources
+* You can now go "back" to the top menu
+
+### Changed
+* Made action prefixes more consistent
+
 ## [v0.1.1] - 2021-12-12
 - Initial Release
 
