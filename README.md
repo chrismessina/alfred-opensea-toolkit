@@ -12,24 +12,31 @@ This workflow doesn't support programmatic access to OpenSea.
 
 <a href="https://github.com/chrismessina/alfred-opensea-toolkit/releases/latest"><img src="./assets/icon-workflow.png" alt="Workflow File Icon" width="128" height="128"></a>
 
-1. Download [alfred-opensea-toolkit.alfredworkflow](https://github.com/chrismessina/alfred-opensea-toolkit/releases/latest).
-2. Double-click `alfred-opensea-toolkit.alfredworkflow` to install it.
+    1. Download [alfred-opensea-toolkit.alfredworkflow](https://github.com/chrismessina/alfred-opensea-toolkit/releases/latest).
+    2. Double-click `alfred-opensea-toolkit.alfredworkflow` to install it.
 
 _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/) user to enable this workflow._
 
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.3] - 2021-12-13
+### Added
+    - Added the Photography category.
+### Fixed
+    - Updated Markdown to be GitHub Markdown compatible.
+
+
 ## [v0.1.2] - 2021-12-13
 ### Added
-* Custom icons for Explore, Stats, and Resources
-* You can now go "back" to the top menu
+    - Custom icons for Explore, Stats, and Resources
+    - You can now go "back" to the top menu
 
 ### Changed
-* Made action prefixes more consistent
+    - Made action prefixes more consistent
 
 ## [v0.1.1] - 2021-12-12
-- Initial Release
+    - Initial Release
 
 
 # About
