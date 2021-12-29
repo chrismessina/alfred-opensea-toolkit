@@ -22,28 +22,27 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 ## [v0.1.4]() - 2021-12-28
 ### Added
-    - Added My Watchlist.
-
+- Added My Watchlist.
 ### Changed
-    - Reorganized the Profile and Settings menu options.
+- Reorganized the Profile and Settings menu options.
 
 ## [v0.1.3]() - 2021-12-27
 ### Added
-    - Added the Photography category.
+- Added the Photography category.
 ### Fixed
-    - Updated Markdown to be GitHub Markdown compatible.
+- Updated Markdown to be GitHub Markdown compatible.
 
 
 ## [v0.1.2]() - 2021-12-13
 ### Added
-    - Custom icons for Explore, Stats, and Resources
-    - You can now go "back" to the top menu
+- Custom icons for Explore, Stats, and Resources
+- You can now go "back" to the top menu
 
 ### Changed
-    - Made action prefixes more consistent
+- Made action prefixes more consistent
 
 ## [v0.1.1]() - 2021-12-12
-    - Initial Release
+- Initial Release
 
 
 # About
