@@ -20,7 +20,14 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 # Changelog[¹](https://keepachangelog.com/)
 
-## [v0.1.3]() - 2021-12-13
+## [v0.1.4]() - 2021-12-28
+### Added
+    - Added My Watchlist.
+
+### Changed
+    - Reorganized the Profile and Settings menu options.
+
+## [v0.1.3]() - 2021-12-27
 ### Added
     - Added the Photography category.
 ### Fixed
