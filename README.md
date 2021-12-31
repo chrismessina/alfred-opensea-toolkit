@@ -20,6 +20,12 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.5](https://github.com/chrismessina/alfred-opensea-toolkit/releases/tag/v0.1.5) - 2021-12-30
+### Changed
+- Flipped location of Arg and Vars block based on @deanishe's [advice](https://www.alfredforum.com/topic/17767-creating-nested-navigation-trees-with-list-filters/#comment-91799).
+### Fixed
+- Fixed Rankings URL
+
 ## [v0.1.4](https://github.com/chrismessina/alfred-opensea-toolkit/releases/tag/v0.1.4) - 2021-12-28
 ### Added
 - Added My Watchlist.
